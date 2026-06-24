@@ -1,0 +1,6 @@
+num = float(input("Digite um número: "))
+print(num%2)
+if num % 2 == 0:
+    print("PAR")
+else:
+    print("IMPAR")
